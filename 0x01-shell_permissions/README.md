@@ -15,3 +15,4 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
 9-John_Doe:this is a script that sets the mode of the file hello to this:
+10-mirror_permissions: This is a script that sets the mode of the file hello the same as olleh’s mode.
