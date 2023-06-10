@@ -4,3 +4,4 @@
 3-new_owner: this is a script that changes the owner of the file hello to the user betty.
 4-empty: a script that creates an empty file called hello.
 4-empty: this is a script that creates an empty file called hello.
+5-execute: script that adds execute permission to the owner of the file hello.
